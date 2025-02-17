@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Ludwing Arandia
----
+
 ## 💻 About Me
 I'm a passionate **software developer** with a strong interest in **system engineering**, **problem-solving**, and **open-source contributions**. I love building efficient and scalable applications, working with databases, and improving my skills in backend development.
 
@@ -22,7 +22,6 @@ A web application built with Django to help schools manage student grades effici
 - Optimizing database queries and scalability
 
 ## 📫 Connect with Me
-- GitHub: [GitHub profile](https://github.com/LudwingArandiaa/) 
 - Email: ludwingarandia26@gmail.com  
 
 ---
