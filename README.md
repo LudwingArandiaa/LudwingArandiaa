@@ -1,9 +1,9 @@
 # 👋 Hi there! I'm Ludwing Arandia
 
-## 💻 About Me
+## 💻 About me
 I'm a passionate **software developer** with a strong interest in **system engineering**, **problem-solving**, and **open-source contributions**. I love building efficient and scalable applications, working with databases, and improving my skills in backend development.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 - **Languages:** C++, Python  
 - **Web Development:** Django  
 - **Databases:** MariaDB, MySQL  
@@ -21,7 +21,7 @@ A web application built with Django to help schools manage student grades effici
 - Advanced system design & backend development  
 - Optimizing database queries and scalability
 
-## 📫 Connect with Me
+## 📫 Contact me
 - Email: ludwingarandia26@gmail.com  
 
 ---
