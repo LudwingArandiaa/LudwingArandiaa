@@ -12,7 +12,7 @@ I'm a passionate **software developer** with a strong interest in **system engin
 
 ## 🚀 Projects
 ### 📚 Library Management System (C++ & MariaDB)
-A terminal-based system that connects to a MariaDB database using `mariadb-connector-c` to manage book loans and user penalties.  
+[A terminal-based system that connects to a MariaDB database using `mariadb-connector-c` to manage book loans and user penalties.](https://github.com/LudwingArandiaa/library-storage-system)
 
 ### 🎓 Student Grades Management (Django)
 A web application built with Django to help schools manage student grades efficiently.
