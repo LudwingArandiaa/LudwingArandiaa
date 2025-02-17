@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there! I'm Ludwing Arandia
+---
+## 💻 About Me
+I'm a passionate **software developer** with a strong interest in **system engineering**, **problem-solving**, and **open-source contributions**. I love building efficient and scalable applications, working with databases, and improving my skills in backend development.
 
-<!--
-**LudwingArandiaa/LudwingArandiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- **Languages:** C++, Python  
+- **Web Development:** Django  
+- **Databases:** MariaDB, MySQL  
+- **Version Control:** Git  
+- **Other Skills:** System Engineering, Problem Solving, Software Design  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+### 📚 Library Management System (C++ & MariaDB)
+A terminal-based system that connects to a MariaDB database using `mariadb-connector-c` to manage book loans and user penalties.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Student Grades Management (Django)
+A web application built with Django to help schools manage student grades efficiently.
+
+## 🌱 Currently Learning
+- Advanced system design & backend development  
+- Optimizing database queries and scalability
+
+## 📫 Connect with Me
+- GitHub: [GitHub profile](https://github.com/LudwingArandiaa/) 
+- Email: ludwingarandia26@gmail.com  
+
+---
