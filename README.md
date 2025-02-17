@@ -17,7 +17,7 @@ A terminal-based system that connects to a MariaDB database using `mariadb-conne
 ### 🎓 Student Grades Management (Django)
 A web application built with Django to help schools manage student grades efficiently.
 
-## 🌱 Currently Learning
+## 🌱 Currently learning
 - Advanced system design & backend development  
 - Optimizing database queries and scalability
 
