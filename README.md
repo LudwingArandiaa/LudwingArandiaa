@@ -4,10 +4,11 @@
 I'm a passionate **software developer** with a strong interest in **system engineering**, **problem-solving**, and **open-source contributions**. I love building efficient and scalable applications, working with databases, and improving my skills in backend development.
 
 ## 🛠️ Tech stack
-- **Languages:** C++, Python  
-- **Web Development:** Django  
-- **Databases:** MariaDB, MySQL  
-- **Version Control:** Git  
+- **Languages:** Python, Javascript, C++
+- **Web Development:** Django, Flask, FastAPI  
+- **Databases:** MariaDB, MySQL, SQLite 
+- **Version Control:** Git
+- **Technologies:** HTML/CSS, Docker
 - **Other Skills:** System Engineering, Problem Solving, Software Design  
 
 ## 🚀 Projects
