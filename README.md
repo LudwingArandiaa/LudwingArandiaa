@@ -12,11 +12,18 @@ I'm a passionate **software developer** with a strong interest in **system engin
 - **Other Skills:** System Engineering, Problem Solving, Software Design  
 
 ## 🚀 Projects
+
+### 📖 (Django & Postgres)
+Web application built with Django for manage university theses with automatic extraction of bibliographic metadata and a search engine for filter and find theses by career, title and keywords.
+
+### 🎓 Student Grades Management (Django)
+A [web application built with Django](https://github.com/Carlos-Romero6/Registro-de-notas) to help schools manage student grades efficiently.
+
 ### 📚 Library Management System (C++ & MariaDB)
 [A terminal-based system](https://github.com/LudwingArandiaa/library-storage-system) that connects to a MariaDB database using `mariadb-connector-c` to manage book loans and user penalties.
 
-### 🎓 Student Grades Management (Django)
-A web application built with Django to help schools manage student grades efficiently.
+### 🗃️ Task Tracker CLI (Python)
+[A command-line interface task tracker](https://github.com/LudwingArandiaa/task-tracker-cli) written in Python that allows you to manage your tasks efficiently in a json file.
 
 ## 🌱 Currently learning
 - Advanced system design & backend development  
