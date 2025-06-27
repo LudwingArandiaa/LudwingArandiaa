@@ -13,7 +13,7 @@ I'm a passionate **software developer** with a strong interest in **system engin
 
 ## 🚀 Projects
 
-### 📖 (Django & Postgres)
+### 📖 Digital Scientific Repository (Django & Postgres)
 Web application built with Django for manage university theses with automatic extraction of bibliographic metadata and a search engine for filter and find theses by career, title and keywords.
 
 ### 🎓 Student Grades Management (Django)
